@@ -26,27 +26,5 @@ Il comprend deux étapes principales :
 - scikit-learn  
 - Apache Spark / HDFS (pipeline Big Data en option)
 
----
-
-## ▶️ Utilisation  
-
-1. Cloner le projet :
-   ```bash
-   git clone https://github.com/<ton_repo>/solvabilite-poc.git
-   ```
-
-2. Installer les dépendances :
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Lancer Jupyter Notebook :
-   ```bash
-   jupyter notebook
-   ```
-
-4. Exécuter dans l’ordre :
-   - Nettoyage_Donnée_Financière.ipynb
-   - Analyse_Solvabilite.ipynb
 
 
