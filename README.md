@@ -33,7 +33,6 @@ Il comprend deux étapes principales :
 1. Cloner le projet :
    ```bash
    git clone https://github.com/<ton_repo>/solvabilite-poc.git
-   cd solvabilite-poc
    ```
 
 2. Installer les dépendances :
@@ -50,8 +49,4 @@ Il comprend deux étapes principales :
    - Nettoyage_Donnée_Financière.ipynb
    - Analyse_Solvabilite.ipynb
 
----
 
-## 📬 Auteur  
-👤 **Fahd Ennia**  
-📧 [ton.email@example.com]  
